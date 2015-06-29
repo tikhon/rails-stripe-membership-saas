@@ -331,8 +331,6 @@ GEM
     tilt (1.4.1)
     timers (4.0.1)
       hitimes
-    turbolinks (2.5.3)
-      coffee-rails
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uglifier (2.7.1)
@@ -405,7 +403,6 @@ DEPENDENCIES
   spring
   spring-commands-rspec
   sucker_punch
-  turbolinks
   uglifier (>= 1.3.0)
   upmin-admin
   web-console (~> 2.0)
